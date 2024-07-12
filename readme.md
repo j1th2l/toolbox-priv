@@ -5,6 +5,8 @@
 
 - Main index
     - adjust footer typos()
+    - add pages for header user button profile and settings()
+    - add pages messagebox for header buttons()
     - when clicked Alerts shall disapear but remain in an alert section in settings for 30 days then deleted()
     - fix user button in header to add sign-in and sign-up
     
